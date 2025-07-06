@@ -29,8 +29,10 @@ Copyright © 2025 ShrimpCord
 All rights reserved.
 
 Redistribution and use in any form, with or without modification, are prohibited
-without explicit written permission from the copyright holder [ShrimpCord Discord Server](https://discord.gg/shrimpcord).
+without explicit written permission from the copyright holder.
 ```
+
+> For permission requests, contact: [ShrimpCord Discord Server](https://discord.gg/shrimpcord)
 
 ---
 
